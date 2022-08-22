@@ -1,4 +1,8 @@
-var message="Hello Coding";
-let msg1="halo";
-const msg2="coding"
-console.log(msg2)
+
+var nama1="EKO SISWO ADI";
+let nama2="SAHPUTRA";
+const umur=39;
+
+console.log(nama1);
+console.log(nama2);
+console.log(umur);
